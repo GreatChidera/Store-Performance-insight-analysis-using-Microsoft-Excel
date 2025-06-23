@@ -9,6 +9,9 @@
 - [Solutions and Recomendations](#Solutions-and-Recomendations)
 ### Project Overview
 This project analyzes Mrs jane's store performance data for the year 2024 using Microsoft Excel. It focuses on identifying top-performing stores, high-impact products, and peak sales periods to support strategic business decisions.
+
+![main second ep](https://github.com/user-attachments/assets/a00fd8fe-97bd-4e2c-a473-46c0111ac8a7)
+
 ### Objectives
 - Identify top-performing stores and products  
 - Determine peak sales months and days  
